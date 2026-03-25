@@ -1,17 +1,64 @@
 aid: bruno
 name: Bruno
 description: >-
-  Bruno provides API capabilities.
+  Bruno is an open-source API client designed for exploring and testing APIs. It
+  serves as an alternative to Postman and Insomnia, storing API collections
+  directly in a folder on your filesystem using a plain text markup language
+  called Bru. Bruno is offline-only, with no cloud sync, prioritizing data
+  privacy and local-first workflows. It supports REST, GraphQL, and gRPC APIs
+  and is available on Mac, Windows, and Linux.
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - API
+  - API Client
+  - API Testing
+  - Open Source
+  - Documentation
 url: >-
   https://raw.githubusercontent.com/api-evangelist/bruno/refs/heads/main/apis.yml
 created: '2026-03-16'
-modified: '2026-03-16'
+modified: '2026-03-25'
 specificationVersion: '0.19'
-apis: []
+apis:
+  - aid: bruno:api-client
+    name: Bruno API Client
+    description: >-
+      Bruno is an open-source API client for exploring and testing APIs. It
+      stores collections directly on the filesystem using the Bru markup
+      language, enabling version control with Git. Bruno supports REST,
+      GraphQL, and gRPC protocols, scripting with JavaScript, environment
+      variables, and collection-level authentication.
+    humanURL: https://www.usebruno.com
+    tags:
+      - API Client
+      - API Testing
+      - Open Source
+      - REST
+      - GraphQL
+    properties:
+      - type: Documentation
+        url: https://docs.usebruno.com
+      - type: Getting Started
+        url: https://docs.usebruno.com/get-started/bruno/what-is-bruno
+      - type: GitHub Repository
+        url: https://github.com/usebruno/bruno
+common:
+  - type: Website
+    url: https://www.usebruno.com
+  - type: Documentation
+    url: https://docs.usebruno.com
+  - type: GitHub Organization
+    url: https://github.com/usebruno
+  - type: Blog
+    url: https://www.usebruno.com/blog
+  - type: Pricing
+    url: https://www.usebruno.com/pricing
+  - type: Downloads
+    url: https://www.usebruno.com/downloads
+  - type: Privacy Policy
+    url: https://www.usebruno.com/privacy-policy
+  - type: Terms of Service
+    url: https://www.usebruno.com/terms
 maintainers:
   - FN: Kin Lane
-    email: info@apievangelist.com
+    email: kin@apievangelist.com
