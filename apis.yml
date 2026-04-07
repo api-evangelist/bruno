@@ -12,8 +12,8 @@ image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
   - API Client
   - API Testing
-  - Open Source
   - Documentation
+  - Open Source
 url: >-
   https://raw.githubusercontent.com/api-evangelist/bruno/refs/heads/main/apis.yml
 created: '2026-03-16'
@@ -32,9 +32,9 @@ apis:
     tags:
       - API Client
       - API Testing
+      - GraphQL
       - Open Source
       - REST
-      - GraphQL
     properties:
       - type: Documentation
         url: https://docs.usebruno.com
