@@ -19,7 +19,7 @@ tags:
   - MIT License
   - Open Source
   - REST
-x-type: opensource
+kind: opensource
 
 type: Index
 specificationVersion: '0.19'
