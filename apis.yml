@@ -57,6 +57,8 @@ apis:
         url: https://www.usebruno.com/pricing
 
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/usebruno
   - type: Website
     url: https://www.usebruno.com
   - type: Documentation
