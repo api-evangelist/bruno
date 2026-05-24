@@ -82,6 +82,8 @@ common:
   - type: Community
     url: https://github.com/usebruno/bruno/discussions
 
+  - type: LLMsTxt
+    url: https://docs.usebruno.com/llms.txt
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
