@@ -2,13 +2,13 @@
   "repo": "bruno",
   "feeds": [
     {
-      "source": "https://www.usebruno.com/blog",
-      "feed_url": "",
+      "source": "https://github.com/usebruno/bruno/blob/main/license.md",
+      "feed_url": "https://github.com/usebruno/bruno/blob/main/license.md",
       "title": "",
       "saved": 0,
-      "error": "no_feed"
+      "method": "none"
     }
   ],
-  "fetched": "2026-05-17T20:48:52Z",
+  "fetched": "2026-06-01T23:35:02Z",
   "post_count": 0
 }
