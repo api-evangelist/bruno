@@ -59,6 +59,10 @@ apis:
   - url: graphql/bruno-graphql.md
     type: GraphQL
 common:
+- type: TrustCenter
+  url: security/bruno-trust-center.yml
+- type: DomainSecurity
+  url: security/bruno-domain-security.yml
 - type: LinkedIn
   url: https://www.linkedin.com/company/usebruno
 - type: Website
