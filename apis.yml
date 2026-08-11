@@ -72,6 +72,12 @@ apis:
   - url: graphql/bruno-graphql.md
     type: GraphQL
 common:
+- type: IssueTracker
+  url: https://github.com/usebruno/bruno/issues
+- type: Releases
+  url: https://github.com/usebruno/bruno/releases
+- type: ContributionGuide
+  url: https://github.com/usebruno/bruno/blob/main/contributing.md
 - type: TrustCenter
   url: security/bruno-trust-center.yml
 - type: DomainSecurity
