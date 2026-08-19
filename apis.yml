@@ -35,7 +35,7 @@ tags:
 kind: opensource
 
 type: Index
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 apis:
 - aid: bruno:api-client
   name: Bruno API Client
