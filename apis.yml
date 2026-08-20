@@ -30,6 +30,17 @@ tags:
 - gRPC
 - JavaScript
 - MIT License
+- Open-Source
+- REST
+tags_raw:
+- API Client
+- API Testing
+- CLI
+- Git
+- GraphQL
+- gRPC
+- JavaScript
+- MIT License
 - Open Source
 - REST
 kind: opensource
@@ -48,6 +59,14 @@ apis:
   humanURL: https://www.usebruno.com
   baseURL: https://www.usebruno.com
   tags:
+  - API Client
+  - API Testing
+  - Git-Native
+  - GraphQL
+  - gRPC
+  - Open-Source
+  - REST
+  tags_raw:
   - API Client
   - API Testing
   - Git-Native
